@@ -3,3 +3,4 @@ note_seq==0.0.3
 scipy==1.8.0
 tensorflow==2.9.1
 typing_extensions==4.4.0
+uvicorn==0.18.3
